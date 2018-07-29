@@ -1,6 +1,6 @@
-package net.q3zeljko.Strategy;
+package net.q3zeljko.Strategy.Example1;
 
-import net.q3zeljko.Strategy.FlyBehaviourImpl.FlyWithRocket;
+import net.q3zeljko.Strategy.Example1.FlyBehaviourImpl.FlyWithRocket;
 
 public class Test {
 
